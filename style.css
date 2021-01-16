@@ -1,0 +1,60 @@
+*{
+    background-color: rgb(43, 70, 150);
+    font-size: 20px;
+    
+
+}
+
+
+
+fieldset{
+   
+display: block;
+color: white;
+margin: 80px 80px;
+height: 500px;
+}
+form{
+}
+form div{
+    height: 50px;
+    display: block;
+}
+.input1{
+    text-align: center;
+}
+
+form input{
+    background-color: aliceblue;
+    border: 1px solid white;
+    border-radius: 2px;
+    height:24px;
+   padding-left: 2px;
+   
+   
+
+}
+form select{
+    background-color: aliceblue;
+    border: 1px solid white;
+    
+}
+form select option{
+    background-color: aliceblue;
+    border: 1px solid white;
+    
+}
+.select1{
+margin-left: 30%;
+}
+.select2{
+    margin-left:25% ;
+
+}
+
+.select3{
+    margin-left: 27%;
+}
+.url1{
+    margin-left: 19%;
+}
